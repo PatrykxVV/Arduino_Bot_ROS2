@@ -1,0 +1,5 @@
+/.vscode
+/log
+/install
+*.pyc
+/__pycache__
